@@ -1,0 +1,35 @@
+.avatar {
+  height: 40px;
+  width: 40px;
+  margin-right: 25px;
+}
+.item-container {
+  margin-left: 0px;
+  line-height: 25px;
+  display: flex;
+  flex-direction: row;
+  width: auto;
+  justify-content: space-between;
+  padding-right: 80px;
+  align-items: center;
+}
+.currency-cont {
+  display: flex;
+  flex-direction: row;
+  color: #ffffff;
+  justify-content: flex-start;
+  align-items: center;
+  min-width: 470px;
+  text-align: center;
+}
+.currency {
+  display: flex;
+  text-align: center;
+}
+.cur {
+  margin-left: 60px;
+  color: #ffffff;
+}
+li {
+  list-style: none;
+}
